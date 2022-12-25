@@ -1,0 +1,10 @@
+# DEVATALA CHARAN TEJA   [MCSAIR   ROLLNO:37   ADCKKD]
+
+
+n = int(input('ENTER NUMBER::'))
+l = n ** 0.5
+print(l)
+if l > 10:
+    print('hello')
+else:
+    print('hi')
