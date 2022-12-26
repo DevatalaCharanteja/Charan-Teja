@@ -9,5 +9,4 @@ for i in range(0, n):
 
 print('Given list =', l)
 l.reverse()
-print(l)
-
+print('reversed list', l)
