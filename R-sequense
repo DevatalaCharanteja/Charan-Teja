@@ -9,5 +9,4 @@ for i in range(0, n):
 
 print('Given list =', l)
 l.sort()
-print(l)
-
+print('list in sequencial order',l)
